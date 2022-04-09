@@ -126,7 +126,7 @@ class DeepLinkingMobilePage extends Component<Props> {
                             : <img
                                 alt = { t('welcomepage.logo.logoDeepLinking') }
                                 className = 'logo'
-                                src = 'images/logo-deep-linking.png' />
+                                src = 'images/polines.png' />
                     }
                 </div>
                 <div className = { `${_SNS}__body` }>
@@ -135,7 +135,7 @@ class DeepLinkingMobilePage extends Component<Props> {
                             ? <img
                                 alt = { t('welcomepage.logo.logoDeepLinking') }
                                 className = 'image'
-                                src = 'images/deep-linking-image.png' />
+                                src = 'images/polines.png' />
                             : null
                     }
                     <p className = { `${_SNS}__text` }>
